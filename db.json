@@ -3,7 +3,7 @@
     {
       "id": 1,
       "menu_title": "فیلیموتور",
-      "image": "./public/images/filimo_tour.png",
+      "image": "./assets/images/filimo_tour.png",
       "dropdown": [],
       "svg": "null"
     },
@@ -32,7 +32,7 @@
         { "id": 18, "title": "ماجراجویی" },
         { "id": 19, "title": "اکشن" }
       ],
-      "svg": "./public/images/svgexport-6.png"
+      "svg": "./assets/images/svgexport-6.png"
     },
     {
       "id": 3,
@@ -59,7 +59,7 @@
         { "id": 18, "title": "درام" },
         { "id": 19, "title": "خانوادگی" }
       ],
-      "svg": "./public/images/svgexport-6.png"
+      "svg": "./assets/images/svgexport-6.png"
     },
     {
       "id": 4,
@@ -93,19 +93,19 @@
         { "id": 11, "title": "مخصوص نابینایان" },
         { "id": 12, "title": "مخصوص ناشنوایان" }
       ],
-      "svg": "./public/images/svgexport-6.png"
+      "svg": "./assets/images/svgexport-6.png"
     },
     {
       "id": 7,
       "menu_title": "فیلیمومدرسه",
-      "image": "./public/images/filimo_school.png",
+      "image": "./assets/images/filimo_school.png",
       "dropdown": [],
       "svg": "null"
     },
     {
       "id": 8,
       "menu_title": "کودک",
-      "image": "./public/images/children.png",
+      "image": "./assets/images/children.png",
       "dropdown": [
         { "id": 1, "title": "شبکه کودک" },
         { "id": 2, "title": "کودک ایرانی" },
@@ -121,12 +121,12 @@
         { "id": 12, "title": "پرنسس" },
         { "id": 13, "title": "انیمشن زیر ۱۵ سال" }
       ],
-      "svg": "./public/images/svgexport-6.png"
+      "svg": "./assets/images/svgexport-6.png"
     },
     {
       "id": 9,
       "menu_title": "جستجو",
-      "image": "./public/images/search.png",
+      "image": "./assets/images/search.png",
       "dropdown": [],
       "svg": "null"
     }
@@ -134,47 +134,47 @@
   "cover": [
     {
       "id": 1,
-      "image": "./public/images/cover_1.png",
+      "image": "./assets/images/cover_1.png",
       "alt": "cover1"
     },
     {
       "id": 2,
-      "image": "./public/images/cover_2.png",
+      "image": "./assets/images/cover_2.png",
       "alt": "cover2"
     },
     {
       "id": 3,
-      "image": "./public/images/cover_3.webp",
+      "image": "./assets/images/cover_3.webp",
       "alt": "cover3"
     },
     {
       "id": 4,
-      "image": "./public/images/cover_4.webp",
+      "image": "./assets/images/cover_4.webp",
       "alt": "cover4"
     },
     {
       "id": 5,
-      "image": "./public/images/cover_5.webp",
+      "image": "./assets/images/cover_5.webp",
       "alt": "cover5"
     },
     {
       "id": 6,
-      "image": "./public/images/cover_6.webp",
+      "image": "./assets/images/cover_6.webp",
       "alt": "cover6"
     },
     {
       "id": 7,
-      "image": "./public/images/cover_7.webp",
+      "image": "./assets/images/cover_7.webp",
       "alt": "cover7"
     },
     {
       "id": 8,
-      "image": "./public/images/cover_8.webp",
+      "image": "./assets/images/cover_8.webp",
       "alt": "cover8"
     },
     {
       "id": 9,
-      "image": "./public/images/cover_9.webp",
+      "image": "./assets/images/cover_9.webp",
       "alt": "cover9"
     }
   ],
@@ -183,22 +183,22 @@
       "id": 1,
       "title": "سریال",
       "dropdown": [
-        { "id": 1, "image": "./public/images/fav_1.jpg", "alt": "fav1", "sub":[]},
-        { "id": 2, "image": "./public/images/fav_2.png", "alt": "fav2", "sub":[] },
-        { "id": 3, "image": "./public/images/fav_3.png", "alt": "fav3", "sub":[] },
-        { "id": 4, "image": "./public/images/fav_4.png", "alt": "fav4", "sub":[] },
-        { "id": 5, "image": "./public/images/fav_5.png", "alt": "fav5", "sub":[] },
-        { "id": 6, "image": "./public/images/fav_6.png", "alt": "fav6", "sub":[] }
+        { "id": 1, "image": "./assets/images/fav_1.jpg", "alt": "fav1", "sub":[]},
+        { "id": 2, "image": "./assets/images/fav_2.png", "alt": "fav2", "sub":[] },
+        { "id": 3, "image": "./assets/images/fav_3.png", "alt": "fav3", "sub":[] },
+        { "id": 4, "image": "./assets/images/fav_4.png", "alt": "fav4", "sub":[] },
+        { "id": 5, "image": "./assets/images/fav_5.png", "alt": "fav5", "sub":[] },
+        { "id": 6, "image": "./assets/images/fav_6.png", "alt": "fav6", "sub":[] }
       ]
     },
     {
       "id": 2,
       "title": "فیلم",
       "dropdown": [
-        { "id": 1, "image": "./public/images/film-1.png", "alt": "film1", "sub":[] },
-        { "id": 2, "image": "./public/images/film-2.png", "alt": "film2", "sub":[] },
-        { "id": 3, "image": "./public/images/film-3.png", "alt": "film3", "sub":[] },
-        { "id": 4, "image": "./public/images/film-4.png", "alt": "film4", "sub":[] }
+        { "id": 1, "image": "./assets/images/film-1.png", "alt": "film1", "sub":[] },
+        { "id": 2, "image": "./assets/images/film-2.png", "alt": "film2", "sub":[] },
+        { "id": 3, "image": "./assets/images/film-3.png", "alt": "film3", "sub":[] },
+        { "id": 4, "image": "./assets/images/film-4.png", "alt": "film4", "sub":[] }
       ]
     }
   ]
